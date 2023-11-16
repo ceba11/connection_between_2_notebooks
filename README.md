@@ -86,7 +86,7 @@ r = requests.post(url, files=files)
 print(r.text)
 ```
 
-After public link ffrom ngork https://1a57-34-91-72-5.ngrok-free.app/ need to past our method name (it is 'upload' here)
+After public link from ngork (https://1a57-34-91-72-5.ngrok-free.app/) need to past our method name (it is 'upload' here)
 
 In files we should paste a path to file you want to upload
 
